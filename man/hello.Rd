@@ -4,7 +4,7 @@
 \alias{hello}
 \title{Hello name function}
 \usage{
-hello(name)
+hello(name, suffix = "")
 }
 \arguments{
 \item{name}{Name to be returned.}
